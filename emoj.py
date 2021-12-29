@@ -1,0 +1,6 @@
+print("\U+1F617")
+# print("U+1F602")
+# print("U+1F970")
+# print("U+1F62A")
+# print("U+1637")
+# print("U+1F917")
